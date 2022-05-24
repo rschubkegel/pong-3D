@@ -10,3 +10,5 @@ This nostalgia trip was made in about 5 hours. The purpose of the game was to pr
 Some helpful YouTube tutorials:
 - [How to Shader](https://youtu.be/1pJyYtBAHks)
 - [3D Dissolve Shader](https://youtu.be/sf_Dc4ew3eM)
+
+![pong screenshot](assets/screenshot.jpg)
